@@ -1,0 +1,12 @@
+body {
+font-family: Arial;
+text-align: center;
+padding: 40px;
+}
+
+.price-box {
+border: 1px solid #ddd;
+padding: 20px;
+margin: 20px;
+display: inline-block;
+}
